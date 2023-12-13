@@ -1,14 +1,9 @@
 <template>
-    <div class="bg-red-500">
-        testing
-        <Icon name="mdi:close" size="100" />
-    </div>
+    <MainLayout>
+    
+    </MainLayout>
 </template>
 
 <script setup>
-
+    import MainLayout from '~/layouts/MainLayout.vue';
 </script>
-
-<style lang="scss" scoped>
-
-</style>
